@@ -29,3 +29,5 @@ body: >-
   * Safe for both Thermal and delicate Piezo heads
 
   * Contains ink dispersion specific solvents formulated specifically for inkjet printers
+
+    **Note:** This solution will not fix faulty printheads. it is a cleaner used for removing dried pigment particles from your print head. If your print head has a physical faul it will not repair it.
